@@ -43,10 +43,7 @@ myAudio.onpause = function() {
 
 
 
-/*
-$(function(){  // $(document).ready shorthan
-  $('.text').fadeIn('fast');
-});*/
+
 
 $(document).ready(function() {
 
